@@ -19,6 +19,8 @@ def find_even_values(src)
 
         p src[row_index][element_index]
 
+      end
+
       element_index += 1
 
     end
